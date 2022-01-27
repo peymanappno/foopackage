@@ -22,7 +22,7 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/peymanappno/foo-python-package',
+    url='github.com/peymanappno/foopackage.git',
 
     # Author details
     author='Peyman',
@@ -50,7 +50,7 @@ setup(
     ],
 
     # What does your project relate to?
-    keywords='suspecttr-ml-core attr-cm',
+    keywords='foo bar',
 
     # You can just specify the packages manually here if your project is
     # simple. Or you can use find_packages().
